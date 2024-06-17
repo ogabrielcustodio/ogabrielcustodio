@@ -1,4 +1,4 @@
-# [Gabriel Custodio dos Santos] - Portfolio
+# Gabriel Custodio dos Santos - Portfolio
 
 ## Overview
 Welcome to my GitHub portfolio! I am passionate about data science and analytics, with expertise in Python, R, and data visualization tools. This portfolio showcases my projects and skills relevant to data science and data analysis roles.
